@@ -1,0 +1,19 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    text-align: left;
+    font-size: 32;
+    color: white;
+}
+
+p {
+    text-align: center;
+    font-size: 12;
+    color: white;
+}
+
+#firstalbumimage {
+    align-self: center;
+}
